@@ -1,5 +1,5 @@
 FROM nginx:1.13
-MAINTAINER Jason Wilder mail@jasonwilder.com
+MAINTAINER Kerry Knopp kerry@codekoalas.com
 
 # Install wget and install/updates certificates
 RUN apt-get update \
